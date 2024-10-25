@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 <!-- ![](https://komarev.com/ghpvc/?username=tsykmn) -->
-<img width="50%" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<!-- <img width="50%" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif"> -->
 
 <h1 align="center">
   hey there
