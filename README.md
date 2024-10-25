@@ -58,6 +58,8 @@ const Teresa = {
 
 </div>
 
+<!-- ## 📘 My top open source projects -->
+
 ### Thank you for visiting my profile! ✨
 
 <!--
